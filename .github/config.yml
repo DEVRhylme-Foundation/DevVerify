@@ -1,0 +1,15 @@
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+newIssueWelcomeComment: >
+  Thank you for opening your first issue in DevVerify! 🎉 We'll review it as soon as possible.
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+newPRWelcomeComment: >
+  Thank you for opening your first pull request in DevVerify! 🚀 We'll review it as soon as possible.
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+firstPRMergeComment: >
+  Congratulations on your first merged pull request in DevVerify! 🎊 We appreciate your contribution!
+
+# Settings for request-info - https://github.com/behaviorbot/request-info
+requestInfoReplyComment: >
+  We would appreciate more information about this issue/PR. Please provide additional details to help us understand better.
